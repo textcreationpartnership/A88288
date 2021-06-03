@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A peculiar prognostication astrologically predicted according to art: VVhether, or no, His Majestie shall suffer death this present yeere 1649. / The possibility thereof discussed and divulged, by William Lilly, student in astrologie.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88288</idno><idno type="EEBO-CITATION">99864868</idno>
+  <idno type="VID">164852</idno>
+  <idno type="EEBO-PROQUEST">2240912155</idno>
+  
+            <idno type="STC">Wing L2237</idno>
+            <idno type="STC">Thomason E537_15</idno>
+            <idno type="STC">ESTC R205509</idno>
+            <idno type="PROQUEST">99864868</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864868e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A peculiar prognostication astrologically predicted according to art: VVhether, or no, His Majestie shall suffer death this present yeere 1649. / The possibility thereof discussed and divulged, by William Lilly, student in astrologie.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published for generall satisfaction,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication supplied by Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 6 1648". The 9 in 1649 has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164852:1"/>
+            <p>A peculiar PROGNOSTICATION Astrologically predicted according to Art: VVhether, or No, His Majestie <hi>Shall suffer Death this present Yeere</hi> 1649.</p>
+            <p>The possibility thereof discussed and divulged, By <hi>William Lilly,</hi> Student in Astrologie.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>Published for generall satisfaction. 164<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164852:2"/>
+            <pb n="1" facs="tcp:164852:2"/>
+            <head>A peculiar Prognosticrtion Astrological<g ref="char:EOLhyphen"/>ly predictep according to art.</head>
+            <p>
+               <hi>SI</hi> Saturnus <hi>fuerit in Geminis vel ejus triplicitate, sig<g ref="char:EOLhyphen"/>nificat quod qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cquid significaverit sive bonum sit illud significatum sive maluus, ut plurimum apparebit occiden<g ref="char:EOLhyphen"/>talibus</hi> (saith <hi>Bonatus</hi>) if <hi>Saturne</hi> be in Gemini or in the ayery triplicity, whether then he signifie good or ill, for the most part his significations appear Westward, from hence will arise thus much, that what is materially signifi<g ref="char:EOLhyphen"/>ed from Saturn, will shew it selfe in the West part of Eng<g ref="char:EOLhyphen"/>land, as in relation to the whole Kingdome; but as to London it points the West parts thereof, and the adj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cent lying from the body of the City; it is very probable the most considerabln actions of this quarter, will significantly manifest themselves in London: <hi>Accident hominibus infir<g ref="char:EOLhyphen"/>mitates de frigido,</hi> &amp;c. The people will be subject to Agues and such like infirmities as proceed from cold and dry cau<g ref="char:EOLhyphen"/>ses; men will be contentious given to lying, from whence it may be feared there will arise some bloodshed, but God may and I hope will divert effusion of blood? So that in<g ref="char:EOLhyphen"/>steed of blood, we may onely quarrell in words or with our pens, for indeed I doe not see that warre or effusion of blood can positively happen, Tumults and motions, heart-burnings, distemped mutterings and grumblings may ap<g ref="char:EOLhyphen"/>pear; my meaning still is, that I doe not conceive the City sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll receive any prejudice by the souldiery, <hi>Deus a<g ref="char:EOLhyphen"/>vertat.</hi>
+            </p>
+            <pb n="2" facs="tcp:164852:3"/>
+            <p>We must expect the exile, vanishment, imprisonment or death of some great King or Prince, shedding of blood a<g ref="char:EOLhyphen"/>mongst the common people, and greater persons; we must expect discords, mutuall dissimulations: the motions of a great Army, wars murthers, firing of houses, theeves plun<g ref="char:EOLhyphen"/>dering, depopulations, miscarriage of women with child, sharp fevers, and universall sicknesse amongst men, by rea<g ref="char:EOLhyphen"/>son there will be a pestile<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ayre, also an admirable change or mutation in the Common-Wealth; being forewarnd me thinks some might be forearmd, if the Parliament of England and Army invite Prince <hi>Charles</hi> home, and he re<g ref="char:EOLhyphen"/>fuse (as God forbid he should,) great things will assured<g ref="char:EOLhyphen"/>ly be put in execution and may prove very fatall to the Prince, and so may produce that excellent mutation spo<g ref="char:EOLhyphen"/>ken of, and it were well advised if such counsell were given to the Duke of <hi>York: (Cavere stamma ferro igne)</hi> assuredly the great Eclipses this year, those which lately preceded and are subsequent, <hi>mutationes institutionum, legum secta<g ref="char:EOLhyphen"/>rumque, &amp; senecta casus seu mortem senioribus significant,</hi> are the messengers of the alterations of former Lawes and in<g ref="char:EOLhyphen"/>stitutions and sects, the death of some old Matron Queen or noble woman, and also of many ancient men.</p>
+            <p>The nobility, the rich and great ones about these times are like to be sick by reason of ill and unwholsome blasts of wind, anglic<seg rend="sup">è</seg> the breath of the people, cry for vengeance upon them, and by reason of earthquakes and unsavory fumosities of the earth, and by reason of warre and complaints betwixt the rich man, and the poore man: the hatred of the people begins sooner against their Supe<g ref="char:EOLhyphen"/>riors then otherwise it would, and coutinues more fiercely: many of quality will be committed, authority finding how much they have been cheated and couzned by Members of
+<pb n="3" facs="tcp:164852:3"/> their own; It is for money, and robbing the Common-Wealth that many have the sentence of condemnation.</p>
+            <p>Absolutely the souldier or sword is rampart this year, or either gives Lawes or straines hard for it, to settle the Kingdome in a very judicious posture, not wronging the civill Magistrate or the just Lawes of the Kingdome, but regulates their exorbitancies; let no mans heart faile, the work of God is going forward.</p>
+            <p>Doubtlesse the materiall effects of the great Eclipse hap<g ref="char:EOLhyphen"/>ning this yeare, which shall concern England, they will principally be effected in London and Westminster, this I mean as unto the Body politique. Saturnus <hi>fer t mal cum tarditate,</hi> Mars <hi>verò subitò, &amp; ideo</hi> Mars <hi>reputatur deterior</hi> Sa<g ref="char:EOLhyphen"/>turno <hi>in nocendo;</hi> former treasons acted against the King, Parliament and Army, are now strictly inquired after, <hi>viz.</hi> what Peer or Nobleman joyned with the Scots, and brought in that numerous Army of cowards; what Mem<g ref="char:EOLhyphen"/>bers of the House of Commons had clandestine consulta<g ref="char:EOLhyphen"/>tions with the Scots Commissioners in Lincolns Inne Fields, and Covent Garden, and it will be inquired what Citizens promised the Scots Armes and money, and help away with part of the Navie, sent their servants to Col<g ref="char:EOLhyphen"/>chester against the Lord <hi>Fairfax.</hi> And who were so busie and active in so of't disturbing the Parliament with pe<g ref="char:EOLhyphen"/>remptory Petitions, now these are found out and receive punishment, who have retarded the Armies pay and mo<g ref="char:EOLhyphen"/>ney, of purpose to destroy them and cut the throats of all those honest soules, who conscientiously ingaged for the Kingdomes good, and no intention (I hope) to destroy Monarchy as is falsly suggested, but to regulate it and obtain those just rights we were borne unto: the most ma<g ref="char:EOLhyphen"/>teriall thing signified by this Eclipse, is a strict questio<g ref="char:EOLhyphen"/>ning
+<pb n="4" facs="tcp:164852:4"/> and bringing to severe punishment, En<g ref="char:EOLhyphen"/>glish Traytors that for these two yeares last past have disturbed the whole Kingdome, infor<g ref="char:EOLhyphen"/>ced the Parliament, &amp;c. Fines and mulcts of money in a large measure are foreseen from hence to be levied out of the estates of Mallefactors, but some of principall quality I feare must fol<g ref="char:EOLhyphen"/>low the example of their fellowes in mischief, and become either heedlesse or die otherwise, according to the quality of their Oaths and of<g ref="char:EOLhyphen"/>fence: This year emergent occasions will rise in Ireland, and that Kingdome doth swell; nor is it evident unto me▪ but that this year, the most noble house of Austria will again be near unto some domestick broiles, I mean the Emperor of Germany may greatly distrust some secret plot<g ref="char:EOLhyphen"/>tings to disturb his little quiet, the person of the King of Spain is much subject to receive preju<g ref="char:EOLhyphen"/>dice by this Eclipse; but thou noble branch of the Austrian house be sure it is the fore-runner of sedition, and some treacherous designe against thy happinesse; I fear a mutiny of thy Subjects, during the effects of this Eclipse.</p>
+            <p>The industrious Venetian is much concerned in this Eclipse, but alas there is a configuration
+<pb n="5" facs="tcp:164852:4"/> this yeare will assuredly prove ominous unto them, yet providence miraculously, even beyond admiration at the time of the action much lessen the will.</p>
+            <p>Worthy men, make peace with the seditious Turk; for indeed I conceive this yeare Constan<g ref="char:EOLhyphen"/>tinople will be much hindered by the head strong Janisaries: and now I mention France, wherein J find as much willingnesse in the peo<g ref="char:EOLhyphen"/>ple to rise and follow our steps in England, as e<g ref="char:EOLhyphen"/>ver any were to eat, when pittifully hungry the viall of wrath is preparing for that Kingdome.</p>
+            <p>What shall I write of the wary Scot, whose invasion deceived our judgement the last year, this Eclipse doth demonstrate a second failing in thee or some of HAMILTONS faction do intend further to disturb thy welfare and ours, thou be<g ref="char:EOLhyphen"/>ginnest about these times to totter and shake, by reason of some great hopes thou hast, not from us, but the approach of a great person into thy Kingdome, if providence contradict it not; make not thy self the seat of endlesse warr, or the scorn or Nations by reason of treachery: Col. JON<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S thou man of honour, now have thou care of our English; it seemes some motion of our Armies
+<pb n="6" facs="tcp:164852:5"/> or stragling Brigadoes appeare Southward or Eastward; Lord God, what, honourable things wouldst thou have perform'd, if supplies had seconded either thy valor or for<g ref="char:EOLhyphen"/>tune.</p>
+            <p>Every sign is ascending, the times are either disturbed with bloodshed and warre, or else with execution of ju<g ref="char:EOLhyphen"/>stice upon turbulent spirits; were not our spirits miracu<g ref="char:EOLhyphen"/>lously supported these times, the common people will dis<g ref="char:EOLhyphen"/>pair and mistrust Gods providence: we are infinite full of counsell, those grand ones having but untoward intelli<g ref="char:EOLhyphen"/>gence from our friends in Scotland, nor very pleasing news from Ireland, I think this year our divisions would invite all the world to fool us or slight us; many showers will be, and what ever danger was formerly threatned wil be much lessened by the meanest position, though retrograde, it is said by some: <hi>Erit bellum licet medicum, &amp; tristabitur Rex il<g ref="char:EOLhyphen"/>lius regionis:</hi> Some little war or scuffling to no purpose, she signifies, but it produces sorrow to the King of that Region, and who is King of Scotland we all know; she points out the same things to the Committe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Estates sit<g ref="char:EOLhyphen"/>ting there, England is ours, and we will hold it, nor from this day shall a Scot ever come in our Nation without our consent and love, possesse a cottage or a poore farme; pro<g ref="char:EOLhyphen"/>vidence hath not assigned our earth to any but English, so long as the earth it selfe and men in it continue.</p>
+            <p>This year there will be much robbing on the dry Land, and great store of Pyracies upon the Seas; <hi>Mars</hi> prenotes the ruines or demolishing of very ancient foundations or buildings; dissimulation and fraud amongst the Clergy, stirring up the multitude to sedition and tumults; <hi>Da nobis pacem Domine.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
